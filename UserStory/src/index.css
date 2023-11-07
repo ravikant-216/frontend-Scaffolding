@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Helvetica;
+  src: url("../public/assets/Fonts/HelveticaNeue-Regular.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Helvetica;
+  src: url("../public/assets/Fonts/Helvetica\ Neu\ Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: Helvetica;
+  src: url("../public/assets/Fonts/HelveticaNeueMed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+* {
+  font-family: Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
